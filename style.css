@@ -270,6 +270,17 @@
   border: none;
 }
 
+.cta-form select {
+  font-family: inherit;
+  font-size: 1.8rem;
+  padding: 1.2rem;
+  border-radius: 9px;
+  color: #4b4a4a;
+  cursor: pointer;
+  outline-style: none;
+  border: none;
+}
+
 .cta-img-box {
   transform: scale(1.25);
   align-self: center;

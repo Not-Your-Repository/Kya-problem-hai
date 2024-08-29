@@ -146,7 +146,6 @@ button {
   border: none;
   box-shadow: inset 0 0 0 1px #e0ffee;
   transition: all 0.4s;
-  grid-column: 1/-1;
 }
 
 .btn--form:hover,
